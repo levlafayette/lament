@@ -5,7 +5,9 @@ Since 2016, Facebook Messenger has allowed the option for end-to-end encrypted m
 
 This has caused some issues with people exporting Messenger data for archival or viewing purposes. It is a lot quicker to search for information when the data is local, and it is better practice to do so.
 
-Encrypted Facebook Messenger data can be downloaded by selecting "Privacy & safety" on the Facebook menu, then "End-to-end encrypted chats", then "Message storage", and finally "Download secure storage data".
+Encrypted Facebook Messenger data can be downloaded by selecting "Privacy & safety" from the user profile messenger.com menu, then "End-to-end encrypted chats", then "Message storage", and finally "Download secure storage data".
+
+(see https://www.facebook.com/help/messenger-app/677912386869109)
 
 When the file is ready, it will provided as a zip file that contains various binaries in a "media" directory and well-formatted JSON files for each message chat for current Friends.
 
